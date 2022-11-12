@@ -47,3 +47,5 @@ This is repository for a homework number five
 3. Added .project-thumb::before pseudo-class with values properties.
 4. Added .container-portfolio .link:hover .project-thumb::before pseudo-class with values properties.
 5. Added <p> into <div> with a .project-thumb class.
+6. Added a .we-doing-box class.
+7. Added a .we-doing-description class.
