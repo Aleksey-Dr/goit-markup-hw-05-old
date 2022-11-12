@@ -49,3 +49,5 @@ This is repository for a homework number five
 5. Added <p> into <div> with a .project-thumb class.
 6. Added a .we-doing-box class.
 7. Added a .we-doing-description class.
+8. Added a transition to the .modal-backdrop class.
+9. Added a transition to the .modal-button-close class.
