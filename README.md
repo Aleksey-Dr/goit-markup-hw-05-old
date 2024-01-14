@@ -1,4 +1,5 @@
 # goit-markup-hw-05
+[![Technologies](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 This is repository for a homework number five
 
